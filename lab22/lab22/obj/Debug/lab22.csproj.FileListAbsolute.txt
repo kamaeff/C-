@@ -1,0 +1,8 @@
+C:\Users\kamae\source\repos\lab22\lab22\bin\Debug\lab22.exe.config
+C:\Users\kamae\source\repos\lab22\lab22\bin\Debug\lab22.exe
+C:\Users\kamae\source\repos\lab22\lab22\bin\Debug\lab22.pdb
+C:\Users\kamae\source\repos\lab22\lab22\obj\Debug\lab22.csproj.AssemblyReference.cache
+C:\Users\kamae\source\repos\lab22\lab22\obj\Debug\lab22.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamae\source\repos\lab22\lab22\obj\Debug\lab22.csproj.CoreCompileInputs.cache
+C:\Users\kamae\source\repos\lab22\lab22\obj\Debug\lab22.exe
+C:\Users\kamae\source\repos\lab22\lab22\obj\Debug\lab22.pdb
